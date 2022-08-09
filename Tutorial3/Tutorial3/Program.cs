@@ -6,7 +6,43 @@ namespace Tutorial3
     {
         static void Main(string[] args)
         {
-            int scorePlayer = 0;
+            Console.WriteLine("Enter student number");
+            int number = Int32.Parse(Console.ReadLine());
+
+            for (int i = 0; i < number; i++)
+            {
+                Console.WriteLine("Enter student mark");
+                int mark = Int32.Parse(Console.ReadLine());
+                switch (mark)
+                {
+                    case < 60:
+                        Console.WriteLine("Grade is E");
+                        break;
+                    case >= 60 and < 70:
+                        Console.WriteLine("Grade is D");
+                        break;
+                    case >= 70 and < 80:
+                        Console.WriteLine("Grade is C");
+                        break;
+                    case >= 80 and < 90:
+                        Console.WriteLine("Grade is B");
+                        break;
+                    case >= 90 and < 100:
+                        Console.WriteLine("Grade is A");
+                        break;
+                    default:
+                        Console.WriteLine("Invalid input, try again");
+                        break;
+
+                }
+            }
+    
+
+
+
+
+
+           /* int scorePlayer = 0;
             int scoreComputer = 0;
 
             bool exit = false;
@@ -60,7 +96,7 @@ namespace Tutorial3
                         Console.WriteLine("Invalid command! Try again");
                         break;
                 }
-            }
+            }*/
 
 
 
