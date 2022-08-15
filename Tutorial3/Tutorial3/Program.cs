@@ -9,6 +9,13 @@ namespace Tutorial3
             Console.WriteLine("Enter student number");
             int number = Int32.Parse(Console.ReadLine());
 
+            printGrade(number);
+           
+        }   
+        
+        static void printGrade(int number)
+        {
+            string grade = "Invalid input, try again";
             for (int i = 0; i < number; i++)
             {
                 Console.WriteLine("Enter student mark");
@@ -16,29 +23,31 @@ namespace Tutorial3
                 switch (mark)
                 {
                     case < 60:
-                        Console.WriteLine("Grade is E");
+                        grade = "E";
                         break;
                     case >= 60 and < 70:
-                        Console.WriteLine("Grade is D");
+                        grade = "D";
+
                         break;
                     case >= 70 and < 80:
-                        Console.WriteLine("Grade is C");
+                        grade = "C";
+
                         break;
                     case >= 80 and < 90:
-                        Console.WriteLine("Grade is B");
+                        grade = "B";
+
                         break;
                     case >= 90 and < 100:
-                        Console.WriteLine("Grade is A");
+                        grade = "A";
                         break;
                     default:
-                        Console.WriteLine("Invalid input, try again");
+                        grade = "Invalid input, try again";
                         break;
 
                 }
+                Console.WriteLine(grade);
             }
-    
-
-
+        }
 
 
 
@@ -337,5 +346,4 @@ namespace Tutorial3
 
         }
     }
-}
 
