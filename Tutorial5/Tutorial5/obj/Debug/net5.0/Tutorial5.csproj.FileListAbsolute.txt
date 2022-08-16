@@ -1,0 +1,16 @@
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\bin\Debug\net5.0\Tutorial5.exe
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\bin\Debug\net5.0\Tutorial5.deps.json
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\bin\Debug\net5.0\Tutorial5.runtimeconfig.json
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\bin\Debug\net5.0\Tutorial5.runtimeconfig.dev.json
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\bin\Debug\net5.0\Tutorial5.dll
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\bin\Debug\net5.0\Tutorial5.pdb
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\obj\Debug\net5.0\Tutorial5.csproj.AssemblyReference.cache
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\obj\Debug\net5.0\Tutorial5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\obj\Debug\net5.0\Tutorial5.AssemblyInfoInputs.cache
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\obj\Debug\net5.0\Tutorial5.AssemblyInfo.cs
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\obj\Debug\net5.0\Tutorial5.csproj.CoreCompileInputs.cache
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\obj\Debug\net5.0\Tutorial5.dll
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\obj\Debug\net5.0\refint\Tutorial5.dll
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\obj\Debug\net5.0\Tutorial5.pdb
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\obj\Debug\net5.0\Tutorial5.genruntimeconfig.cache
+C:\Users\yanan\source\repos\.NET-learning\Tutorial5\Tutorial5\obj\Debug\net5.0\ref\Tutorial5.dll
