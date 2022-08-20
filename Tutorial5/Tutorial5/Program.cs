@@ -6,7 +6,7 @@ namespace Tutorial5
 {
     internal class Program
     {
-        static void Main(string[] args)
+        /*static void Main(string[] args)
         {
             bool exit = false;
 
@@ -59,7 +59,7 @@ namespace Tutorial5
             }
 
             Console.WriteLine("Byebye");
-        }
+        }*/
 
 
 
@@ -106,68 +106,77 @@ namespace Tutorial5
          }*/
 
 
-        /*static void Main(string[] args)
-         {
+        static void Main(string[] args)
+        {
 
-             double[] numbers = { 10, 13.2, 14.3, 11, 9.89, 12.98, 15.76, 11.6, 14.21, 10.89, 8, 7.1 };
+            double[] numbers = { 10, 13.2, 14.3, 11, 9.89, 12.98, 15.76, 11.6, 14.21, 10.89, 8, 7.1 };
+
+            double sum = 0;
+            for (int i = 0; i < numbers.Length; i++)
+            {
+                sum = sum + numbers[i];
+                Console.WriteLine(sum);
+            }
+
+            /*
+                         Console.WriteLine("The sum of all numbers is " + numbers.Sum());
+                         Console.WriteLine("The average of all numbers is " + numbers.Average());
+            */
 
 
-             Console.WriteLine("The sum of all numbers is " + numbers.Sum());
-             Console.WriteLine("The average of all numbers is " + numbers.Average());
+
+            /*double[] movingAverage = new double[numbers.Length - 2];
+            for (int i = 0; i < movingAverage.Length; i++)
+            {
+                movingAverage[i] = (numbers[i] + numbers[i+1] + numbers[i+2])/3;
+            }
+
+            foreach (double j in movingAverage)
+            {
+                Console.WriteLine(j);
+            }
 
 
 
 
-             double[] movingAverage = new double[numbers.Length - 2];
-             for (int i = 0; i < movingAverage.Length; i++)
+
+             Console.WriteLine("Enter a number for comparison");
+             double compNum = Convert.ToDouble(Console.ReadLine());
+             Console.WriteLine($"Displaying all the numbers greater than {compNum}:");
+             foreach (double i in numbers)
              {
-                 movingAverage[i] = (numbers[i] + numbers[i+1] + numbers[i+2])/3;
+
+             if (i > compNum )
+             {
+                 Console.WriteLine(i);
              }
 
-             foreach (double j in movingAverage)
-             {
-                 Console.WriteLine(j);
              }
-
-
-
-
-
-              Console.WriteLine("Enter a number for comparison");
-              double compNum = Convert.ToDouble(Console.ReadLine());
-              Console.WriteLine($"Displaying all the numbers greater than {compNum}:");
-              foreach (double i in numbers)
-              {
-
-              if (i > compNum )
-              {
-                  Console.WriteLine(i);
-              }
-
-              }
-         }
+        }
 */
 
 
 
-        /*static void Main(string[] args)
-         {
-             int[] F = new int[20];
-             F[0] = 0;
-             F[1] = 1;
-
-             for (int i = 2; i < 20; i++)
+            /*static void Main(string[] args)
              {
-                 F[i] = F[i - 1] + F[i - 2];
-             }
+                 int[] F = new int[20];
+                 F[0] = 0;
+                 F[1] = 1;
 
-             Console.WriteLine("The first 20 Fibonacci numbers:");
+                 for (int i = 2; i < 20; i++)
+                 {
+                     F[i] = F[i - 1] + F[i - 2];
+                 }
 
-             foreach (int f in F)
-             {
-                 Console.Write(f + ", ");
-             }
-         }*/
+                 Console.WriteLine("The first 20 Fibonacci numbers:");
 
+                 foreach (int f in F)
+                 {
+                     Console.Write(f + ", ");
+                 }
+             }*/
+
+        }
     }
 }
+
