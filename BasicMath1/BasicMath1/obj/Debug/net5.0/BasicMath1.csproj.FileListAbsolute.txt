@@ -1,0 +1,16 @@
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\bin\Debug\net5.0\BasicMath1.exe
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\bin\Debug\net5.0\BasicMath1.deps.json
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\bin\Debug\net5.0\BasicMath1.runtimeconfig.json
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\bin\Debug\net5.0\BasicMath1.runtimeconfig.dev.json
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\bin\Debug\net5.0\BasicMath1.dll
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\bin\Debug\net5.0\BasicMath1.pdb
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\obj\Debug\net5.0\BasicMath1.csproj.AssemblyReference.cache
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\obj\Debug\net5.0\BasicMath1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\obj\Debug\net5.0\BasicMath1.AssemblyInfoInputs.cache
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\obj\Debug\net5.0\BasicMath1.AssemblyInfo.cs
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\obj\Debug\net5.0\BasicMath1.csproj.CoreCompileInputs.cache
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\obj\Debug\net5.0\BasicMath1.dll
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\obj\Debug\net5.0\refint\BasicMath1.dll
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\obj\Debug\net5.0\BasicMath1.pdb
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\obj\Debug\net5.0\BasicMath1.genruntimeconfig.cache
+C:\Users\yanan\source\repos\.NET-learning\BasicMath1\BasicMath1\obj\Debug\net5.0\ref\BasicMath1.dll
