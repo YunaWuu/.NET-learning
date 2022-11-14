@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ShapeCalculater
 {
+    // This is the Rectangle class which derives from Shape
     public class Rectangle : Shape
     {
+        // A rectangle is defined by a length and a height value
         public double Length;
         public double Height;
         public Rectangle()
@@ -20,13 +22,23 @@ namespace ShapeCalculater
             Length = length;
             Height = height;
         }
+
+        // Area = length * height
         public override double GetArea()
         {
-            return Length * Height;
+            if (Length > 0 && Height > 0)
+                return Length * Height;
+            else
+                return 0;
         }
+
+        // Perimeter = 2 * (length + height)
         public override double GetPerimeter()
         {
-            return 2 * (Length + Height);
+            if (Length > 0 && Height > 0)
+                return 2 * (Length + Height);
+            else
+                return 0;
         }
     }
     }

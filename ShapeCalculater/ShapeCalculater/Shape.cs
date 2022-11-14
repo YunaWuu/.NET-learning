@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace ShapeCalculater
 {
+    // This is the Shape class, which is the base of all different shapes
     public abstract class Shape
     {
         public abstract double GetArea();

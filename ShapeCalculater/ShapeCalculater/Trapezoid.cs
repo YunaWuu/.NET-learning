@@ -6,8 +6,10 @@ using System.Threading.Tasks;
 
 namespace ShapeCalculater
 {
+    // This is the Trapezoid class which derives from Shape
     public class Trapezoid : Shape
     {
+        // A trapezoid is defined by two base value, two side value and a height value
         public double Base1;
         public double Base2;
         public double Side1;
@@ -29,13 +31,23 @@ namespace ShapeCalculater
             Side2 = side2;
             Height = height;
         }
+
+        // Area = (base1 + base2) * height / 2
         public override double GetArea()
         {
-            return (Base1 + Base2) * Height / 2;
+            if(Base1 > 0 && Base2 > 0 && Height > 0)
+                return (Base1 + Base2) * Height / 2;
+            else
+                return 0;
         }
+
+        // Perimeter = base1 + base2 + side1 + side2
         public override double GetPerimeter()
         {
-            return Base1 + Base2 + Side1 + Side2;
+            if (Base1 > 0 && Base2 > 0 && Side1 > 0 && Side2 > 0 && Height > 0)
+                return Base1 + Base2 + Side1 + Side2;
+            else
+                return 0;
         }
     }
 }
