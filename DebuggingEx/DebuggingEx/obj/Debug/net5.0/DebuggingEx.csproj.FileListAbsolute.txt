@@ -1,0 +1,16 @@
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\bin\Debug\net5.0\DebuggingEx.exe
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\bin\Debug\net5.0\DebuggingEx.deps.json
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\bin\Debug\net5.0\DebuggingEx.runtimeconfig.json
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\bin\Debug\net5.0\DebuggingEx.runtimeconfig.dev.json
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\bin\Debug\net5.0\DebuggingEx.dll
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\bin\Debug\net5.0\DebuggingEx.pdb
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\obj\Debug\net5.0\DebuggingEx.csproj.AssemblyReference.cache
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\obj\Debug\net5.0\DebuggingEx.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\obj\Debug\net5.0\DebuggingEx.AssemblyInfoInputs.cache
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\obj\Debug\net5.0\DebuggingEx.AssemblyInfo.cs
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\obj\Debug\net5.0\DebuggingEx.csproj.CoreCompileInputs.cache
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\obj\Debug\net5.0\DebuggingEx.dll
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\obj\Debug\net5.0\refint\DebuggingEx.dll
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\obj\Debug\net5.0\DebuggingEx.pdb
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\obj\Debug\net5.0\DebuggingEx.genruntimeconfig.cache
+C:\Users\yanan\source\repos\.NET-learning\DebuggingEx\DebuggingEx\obj\Debug\net5.0\ref\DebuggingEx.dll
