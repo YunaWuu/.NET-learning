@@ -11,7 +11,7 @@ namespace HolmesglenSqlite
     {
         static void Main(string[] args)
         {
-            var studentDAL = new StudentDAL();
+            /*var studentDAL = new StudentDAL();
             var result = studentDAL.Read("St0010");
             if (result == null)
             {
@@ -20,7 +20,7 @@ namespace HolmesglenSqlite
             else
             {
                 Console.WriteLine(result.Id + " - " + result.Name);
-            }
+            }*/
 
 
 
@@ -34,12 +34,12 @@ namespace HolmesglenSqlite
 
 
 
-            /* // Convert to three-layer architecture
+            // Convert to three-layer architecture
              var studentDAL = new StudentDAL();
              var studentBLL = new StudentBLL(studentDAL);
              var getAllStudents = new
              GetAllStudents(studentBLL);
-             getAllStudents.Run();*/
+             getAllStudents.Run();
 
 
 

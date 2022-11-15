@@ -66,7 +66,15 @@ namespace HolmesglenSqlite.DataAccessLayer
         public Student Read(string id)
         {
             Student student = null;
-            Connection.Open();
+            try
+            {
+                Connection.Open();
+            }
+            catch(SqliteException ex)
+            {
+                Console.WriteLine(ex.Message);
+            }
+           
             // Build the query command
             var command = Connection.CreateCommand();
             command.CommandText = @"

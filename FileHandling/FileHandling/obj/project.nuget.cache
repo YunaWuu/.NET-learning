@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "wEMButfdu5vk410argA7o/70AzHducJjMgTOaoRFKCkzVK3i6s6tXSJTtCx+vQUdvcOUT+g2bI8ObJDPFvU6GA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\yanan\\source\\repos\\.NET-learning\\FileHandling\\FileHandling\\FileHandling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\yanan\\.nuget\\packages\\csvhelper\\30.0.1\\csvhelper.30.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
